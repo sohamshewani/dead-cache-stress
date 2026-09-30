@@ -1,0 +1,6 @@
+click
+rich
+astroid
+sqlite3
+aiohttp
+pytest
